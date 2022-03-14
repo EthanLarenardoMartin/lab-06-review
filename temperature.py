@@ -1,4 +1,4 @@
-tempincelsius = int(input("Please enter a temperature in Celsius. "))
+tempincelsius = float(input("Please enter a temperature in Celsius. "))
 tempinfahrenheit = (tempincelsius * 1.8 ) + 32
 tempinfahrenheit = round(tempinfahrenheit)
 
